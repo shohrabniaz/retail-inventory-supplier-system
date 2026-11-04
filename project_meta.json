@@ -1,10 +1,17 @@
 {
-  "seq": 79,
   "title": "Inventory and Supplier Management System for a Small Retailer",
-  "slug": "inventory-and-supplier-management-system-for-a-small-re",
+  "old_slug": "inventory-and-supplier-management-system-for-a-small-re",
+  "slug": "retail-inventory-supplier-system",
   "folder": "Inventory_And_Supplier_Management_System_For_A",
-  "kind": "app",
-  "body_words": 244,
+  "kind": "product",
+  "body_words": 307,
+  "source": "MICT Academic",
   "project_id": "Academic Project 22",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
