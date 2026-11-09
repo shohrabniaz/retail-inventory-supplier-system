@@ -1,30 +1,38 @@
 [
   {
-    "title": "Inventory and Supplier Management System for a Small Retailer - intake request",
+    "title": "Inventory and Supplier Management System for a Small Retailer \u2014 new retail inventory supplier system request",
     "status": "open",
     "meta": {
+      "source": "web",
       "priority": "high"
     }
   },
   {
-    "title": "Schedule follow-up",
-    "status": "open",
+    "title": "Review retail inventory supplier system backlog",
+    "status": "in_progress",
     "meta": {
       "priority": "medium"
     }
   },
   {
-    "title": "Close completed onboarding",
+    "title": "Customer follow-up for retail inventory supplier system",
+    "status": "blocked",
+    "meta": {
+      "priority": "high"
+    }
+  },
+  {
+    "title": "Completed retail inventory supplier system onboarding",
     "status": "done",
     "meta": {
       "priority": "low"
     }
   },
   {
-    "title": "Waiting on customer evidence",
-    "status": "blocked",
+    "title": "QA check \u2014 retail-inventory-supplier-system",
+    "status": "open",
     "meta": {
-      "priority": "high"
+      "priority": "medium"
     }
   }
 ]
